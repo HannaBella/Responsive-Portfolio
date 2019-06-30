@@ -225,6 +225,14 @@ input[type=submit] {
     }
     #masthead {
         position: static;
+        margin-bottom: 5px;
+    }
+    #logo {
+        width: 100%;
+    }
+    nav {
+        float: left;
+        margin: 7px 5px;
     }
     .auth-image {
         width: 100%;
